@@ -29,7 +29,7 @@ HP's own FY2025 10-K names this exact tension directly: a decline in the install
 
 **Start here if you want the headline:** open the deck (`deck/HP_Print_Franchise_Portfolio.pptx`), slides 1–6.
 
-**Start here if you want to see the work:** open the model (`model/HP_Print_Franchise_FY27_Portfolio_Investment_Analysis.xlsx`) and read `docs/methodology.md` alongside it.
+**Start here if you want to see the work:** open the model (`model/HP_Print_FY27_Franchise_Portfolio_Option_Modeling.xlsx`) and read `docs/methodology.md` alongside it.
 
 ## Headline Results
 
