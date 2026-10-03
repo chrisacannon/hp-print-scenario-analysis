@@ -24,10 +24,10 @@ HP's own FY2025 10-K names this exact tension directly: a decline in the install
 | Path | Contents |
 |---|---|
 | `model/` | Full Excel workbook — assumptions, two scenario-driven NPV models, a Combined Scenario tab, two sensitivity grids, portfolio comparison |
-| `deck/` | Companion deck — executive summary + full appendix detail |
+| `deck/` | Companion deck — executive summary + full appendix detail (PDF for quick viewing, PPTX for the editable source) |
 | `docs/` | Write-up of key analytical decisions, bugs caught, and judgment calls (this is the most interesting part if you only have a few minutes) |
 
-**Start here if you want the headline:** open the deck (`deck/HP_Print_Franchise_Portfolio.pptx`), slides 1–6.
+**Start here if you want the headline:** open the deck ([PDF](deck/HP_Print_Franchise_Portfolio.pdf) for a quick read in-browser, or [`deck/HP_Print_Franchise_Portfolio.pptx`](deck/HP_Print_Franchise_Portfolio.pptx) for the editable source), slides 1–6.
 
 **Start here if you want to see the work:** open the model (`model/HP_Print_FY27_Franchise_Portfolio_Option_Modeling.xlsx`) and read `docs/methodology.md` alongside it.
 
